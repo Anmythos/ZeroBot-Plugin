@@ -34,7 +34,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chatcount" // 聊天时长统计
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chatcount" // 聊天时长统计2
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleepmanage" // 统计睡眠时间
 
